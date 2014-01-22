@@ -1,0 +1,13 @@
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\bin\Debug\MyActivitiesPlanner.exe.config
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.Form1.resources
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.Properties.Resources.resources
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\bin\Debug\MyActivitiesPlanner.exe
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\bin\Debug\MyActivitiesPlanner.pdb
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.exe
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.pdb
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\bin\Debug\MyActivitiesPlanner.exe.manifest
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\bin\Debug\MyActivitiesPlanner.application
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.exe.manifest
+C:\Users\Hafiz\Documents\Visual Studio 2012\Projects\MyActivitiesPlanner\MyActivitiesPlanner\obj\Debug\MyActivitiesPlanner.application
